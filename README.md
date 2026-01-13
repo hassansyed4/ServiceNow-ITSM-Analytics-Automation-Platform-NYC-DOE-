@@ -7,11 +7,11 @@ Leadership did not have a clear view of IT service performance. Reports were cre
 
 ## My Role
 
-ServiceNow Senior Developer supporting ITSM reporting and automation initiatives.
+ServiceNow Developer supporting ITSM reporting and automation initiatives.
 
-## What I Built
+## What We Built
 
-I helped design ITSM dashboards that showed incident volumes, SLA compliance, and service trends. I also automated KPI reporting so leadership could see real-time service performance without manual effort.
+We helped design ITSM dashboards that showed incident volumes, SLA compliance, and service trends. We also automated KPI reporting so leadership could see real-time service performance without manual effort.
 
 ## Tools Used
 
@@ -29,9 +29,9 @@ Dashboards
 
 Data was inconsistent across teams, and SLA definitions were not standardized, which made reporting unreliable.
 
-## How I Solved It
+## How We Solved It
 
-I worked with teams to standardize SLA definitions and reporting logic, cleaned up report filters, and automated data refresh schedules.
+We worked with teams to standardize SLA definitions and reporting logic, cleaned up report filters, and automated data refresh schedules.
 
 ## Outcome
 
